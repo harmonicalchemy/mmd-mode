@@ -1,9 +1,9 @@
 mmd-mode
 ========
 
-A customized markdown mode that uses multimarkdown syntax highlighting.
+A customized [markdown](http://daringfireball.net/projects/markdown/syntax) mode that uses [multimarkdown](http://fletcherpenney.net/multimarkdown/) syntax highlighting.
 
-This is a major mode that is derived from the emacs markdown-mode created by Jason Blevins.  Markdown mode can be found @ http://jblevins.org/projects/markdown-mode/
+This is a major mode that is derived from the emacs [markdown-mode](http://jblevins.org/projects/markdown-mode/) created by Jason Blevins.
 
 In order to use this derived mode you must first retrieve the original markdown mode from the site above.
 
