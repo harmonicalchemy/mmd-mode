@@ -1,5 +1,5 @@
 Title: Markdown Sample
-Author: James Quigley
+OriginalAuthor: James Quigley
 
 Level 1
 =======
